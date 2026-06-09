@@ -6,9 +6,7 @@ A feature-rich, Android-focused Flutter application for real-time bus fleet trac
 
 ## 📱 Screenshots
 
-| Dashboard | Fleet List | Bus Detail | Trip Log |
-|-----------|------------|------------|----------|
-| Fleet stats & active buses | Searchable & filterable list | Live GPS + occupancy | Per-bus position history |
+- Coming Soon
 
 ---
 
